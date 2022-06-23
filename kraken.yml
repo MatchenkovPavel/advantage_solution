@@ -1,0 +1,776 @@
+MOVR:
+  - "MOVRUSD"
+  - "MOVREUR"
+POLIS:
+  - "POLISEUR"
+  - "POLISUSD"
+PHA:
+  - "PHAEUR"
+  - "PHAUSD"
+SBR:
+  - "SBRUSD"
+  - "SBREUR"
+API3:
+  - "API3EUR"
+  - "API3USD"
+ZUSD:
+  - "USDCHF"
+  - "ZUSDZCAD"
+  - "ZUSDZJPY"
+SRM:
+  - "SRMUSD"
+  - "SRMEUR"
+  - "SRMGBP"
+  - "SRMXBT"
+NMR:
+  - "NMREUR"
+  - "NMRUSD"
+ZAUD:
+  - "AUDUSD"
+  - "AUDJPY"
+MNGO:
+  - "MNGOUSD"
+  - "MNGOEUR"
+GLMR:
+  - "GLMRUSD"
+  - "GLMREUR"
+GMT:
+  - "GMTUSD"
+  - "GMTEUR"
+RAY:
+  - "RAYUSD"
+  - "RAYEUR"
+ACH:
+  - "ACHEUR"
+  - "ACHUSD"
+SDN:
+  - "SDNUSD"
+  - "SDNEUR"
+BAL:
+  - "BALETH"
+  - "BALXBT"
+  - "BALUSD"
+  - "BALEUR"
+BOND:
+  - "BONDUSD"
+  - "BONDEUR"
+CQT:
+  - "CQTEUR"
+  - "CQTUSD"
+OXT:
+  - "OXTEUR"
+  - "OXTXBT"
+  - "OXTETH"
+  - "OXTUSD"
+ICP:
+  - "ICPEUR"
+  - "ICPUSD"
+GHST:
+  - "GHSTEUR"
+  - "GHSTXBT"
+  - "GHSTUSD"
+  - "GHSTGBP"
+SAMO:
+  - "SAMOUSD"
+  - "SAMOEUR"
+XXDG:
+  - "XDGEUR"
+  - "XDGUSD"
+  - "XXDGXXBT"
+  - "XDGUSDT"
+GST:
+  - "GSTUSD"
+  - "GSTEUR"
+BCH:
+  - "BCHAUD"
+  - "BCHETH"
+  - "BCHUSDT"
+  - "BCHXBT"
+  - "BCHUSD"
+  - "BCHEUR"
+  - "BCHJPY"
+  - "BCHGBP"
+GRT:
+  - "GRTAUD"
+  - "GRTETH"
+  - "GRTXBT"
+  - "GRTEUR"
+  - "GRTGBP"
+  - "GRTUSD"
+ACA:
+  - "ACAUSD"
+  - "ACAEUR"
+XETC:
+  - "XETCZUSD"
+  - "XETCXETH"
+  - "XETCZEUR"
+  - "XETCXXBT"
+ALICE:
+  - "ALICEUSD"
+  - "ALICEEUR"
+AVAX:
+  - "AVAXEUR"
+  - "AVAXUSD"
+PERP:
+  - "PERPEUR"
+  - "PERPUSD"
+MXC:
+  - "MXCUSD"
+  - "MXCEUR"
+XETH:
+  - "XETHZEUR"
+  - "XETHZCAD"
+  - "ETHAUD"
+  - "XETHXXBT"
+  - "ETHCHF"
+  - "XETHZUSD"
+  - "XETHZGBP"
+  - "XETHZJPY"
+  - "ETHUSDC"
+  - "ETHDAI"
+  - "ETHUSDT"
+AKT:
+  - "AKTUSD"
+  - "AKTEUR"
+FET:
+  - "FETUSD"
+  - "FETEUR"
+ASTR:
+  - "ASTREUR"
+  - "ASTRUSD"
+LDO:
+  - "LDOUSD"
+  - "LDOEUR"
+ORCA:
+  - "ORCAEUR"
+  - "ORCAUSD"
+KSM:
+  - "KSMUSD"
+  - "KSMETH"
+  - "KSMAUD"
+  - "KSMGBP"
+  - "KSMXBT"
+  - "KSMEUR"
+  - "KSMDOT"
+LRC:
+  - "LRCEUR"
+  - "LRCUSD"
+KP3R:
+  - "KP3RUSD"
+  - "KP3REUR"
+ADA:
+  - "ADAETH"
+  - "ADAGBP"
+  - "ADAUSD"
+  - "ADAEUR"
+  - "ADAUSDT"
+  - "ADAXBT"
+  - "ADAAUD"
+USDC:
+  - "USDCUSD"
+  - "USDCUSDT"
+  - "USDCEUR"
+  - "USDCAUD"
+  - "USDCGBP"
+KIN:
+  - "KINUSD"
+  - "KINEUR"
+NYM:
+  - "NYMEUR"
+  - "NYMUSD"
+REPV2:
+  - "REPV2ETH"
+  - "REPV2XBT"
+  - "REPV2USD"
+  - "REPV2EUR"
+OMG:
+  - "OMGJPY"
+  - "OMGUSD"
+  - "OMGXBT"
+  - "OMGETH"
+  - "OMGEUR"
+SAND:
+  - "SANDXBT"
+  - "SANDGBP"
+  - "SANDUSD"
+  - "SANDEUR"
+MULTI:
+  - "MULTIUSD"
+  - "MULTIEUR"
+ZRX:
+  - "ZRXUSD"
+  - "ZRXXBT"
+  - "ZRXGBP"
+  - "ZRXEUR"
+FORTH:
+  - "FORTHEUR"
+  - "FORTHUSD"
+WOO:
+  - "WOOEUR"
+  - "WOOUSD"
+AIR:
+  - "AIRUSD"
+  - "AIREUR"
+QTUM:
+  - "QTUMETH"
+  - "QTUMEUR"
+  - "QTUMUSD"
+  - "QTUMXBT"
+POWR:
+  - "POWREUR"
+  - "POWRUSD"
+UNI:
+  - "UNIEUR"
+  - "UNIUSD"
+  - "UNIETH"
+  - "UNIXBT"
+FIDA:
+  - "FIDAEUR"
+  - "FIDAUSD"
+CHR:
+  - "CHREUR"
+  - "CHRUSD"
+FLOW:
+  - "FLOWGBP"
+  - "FLOWXBT"
+  - "FLOWETH"
+  - "FLOWEUR"
+  - "FLOWUSD"
+NANO:
+  - "NANOETH"
+  - "NANOEUR"
+  - "NANOUSD"
+  - "NANOXBT"
+ROOK:
+  - "ROOKEUR"
+  - "ROOKUSD"
+STORJ:
+  - "STORJEUR"
+  - "STORJUSD"
+  - "STORJXBT"
+  - "STORJETH"
+XZEC:
+  - "XZECXXBT"
+  - "XZECZEUR"
+  - "XZECZUSD"
+SNX:
+  - "SNXETH"
+  - "SNXEUR"
+  - "SNXGBP"
+  - "SNXAUD"
+  - "SNXUSD"
+  - "SNXXBT"
+OCEAN:
+  - "OCEANXBT"
+  - "OCEANGBP"
+  - "OCEANEUR"
+  - "OCEANUSD"
+ANT:
+  - "ANTXBT"
+  - "ANTEUR"
+  - "ANTUSD"
+  - "ANTETH"
+FIS:
+  - "FISUSD"
+  - "FISEUR"
+AGLD:
+  - "AGLDUSD"
+  - "AGLDEUR"
+REN:
+  - "RENGBP"
+  - "RENEUR"
+  - "RENXBT"
+  - "RENUSD"
+BIT:
+  - "BITEUR"
+  - "BITUSD"
+RARE:
+  - "RAREEUR"
+  - "RAREUSD"
+MC:
+  - "MCEUR"
+  - "MCUSD"
+XRT:
+  - "XRTUSD"
+  - "XRTEUR"
+LUNA:
+  - "LUNAUSD"
+  - "LUNAEUR"
+FARM:
+  - "FARMEUR"
+  - "FARMUSD"
+ADX:
+  - "ADXEUR"
+  - "ADXUSD"
+KAVA:
+  - "KAVAXBT"
+  - "KAVAUSD"
+  - "KAVAETH"
+  - "KAVAEUR"
+GARI:
+  - "GARIEUR"
+  - "GARIUSD"
+SOL:
+  - "SOLXBT"
+  - "SOLGBP"
+  - "SOLEUR"
+  - "SOLUSD"
+DYDX:
+  - "DYDXEUR"
+  - "DYDXUSD"
+GTC:
+  - "GTCUSD"
+  - "GTCEUR"
+STEP:
+  - "STEPUSD"
+  - "STEPEUR"
+TRX:
+  - "TRXXBT"
+  - "TRXUSD"
+  - "TRXEUR"
+  - "TRXETH"
+1INCH:
+  - "1INCHUSD"
+  - "1INCHEUR"
+CHZ:
+  - "CHZUSD"
+  - "CHZEUR"
+OGN:
+  - "OGNUSD"
+  - "OGNEUR"
+PSTAKE:
+  - "PSTAKEUSD"
+  - "PSTAKEEUR"
+GALA:
+  - "GALAEUR"
+  - "GALAUSD"
+SPELL:
+  - "SPELLEUR"
+  - "SPELLUSD"
+MINA:
+  - "MINAUSD"
+  - "MINAGBP"
+  - "MINAEUR"
+  - "MINAXBT"
+AAVE:
+  - "AAVEETH"
+  - "AAVEUSD"
+  - "AAVEGBP"
+  - "AAVEXBT"
+  - "AAVEEUR"
+  - "AAVEAUD"
+BICO:
+  - "BICOUSD"
+  - "BICOEUR"
+FIL:
+  - "FILGBP"
+  - "FILETH"
+  - "FILAUD"
+  - "FILUSD"
+  - "FILXBT"
+  - "FILEUR"
+BAT:
+  - "BATUSD"
+  - "BATJPY"
+  - "BATETH"
+  - "BATXBT"
+  - "BATEUR"
+RAD:
+  - "RADEUR"
+  - "RADUSD"
+USDT:
+  - "USDTEUR"
+  - "USDTCHF"
+  - "USDTJPY"
+  - "USDTZUSD"
+  - "USDTCAD"
+  - "USDTAUD"
+  - "USDTGBP"
+ICX:
+  - "ICXUSD"
+  - "ICXETH"
+  - "ICXEUR"
+  - "ICXXBT"
+ALGO:
+  - "ALGOETH"
+  - "ALGOGBP"
+  - "ALGOXBT"
+  - "ALGOUSD"
+  - "ALGOEUR"
+ZEUR:
+  - "EURCAD"
+  - "EURGBP"
+  - "EURAUD"
+  - "EURCHF"
+  - "ZEURZUSD"
+  - "EURJPY"
+TBTC:
+  - "TBTCXBT"
+  - "TBTCUSD"
+  - "TBTCEUR"
+  - "TBTCETH"
+YFI:
+  - "YFIETH"
+  - "YFIUSD"
+  - "YFIGBP"
+  - "YFIEUR"
+  - "YFIAUD"
+  - "YFIXBT"
+ETH2.S:
+  - "ETH2.SETH"
+KNC:
+  - "KNCUSD"
+  - "KNCETH"
+  - "KNCXBT"
+  - "KNCEUR"
+DAI:
+  - "DAIEUR"
+  - "DAIUSD"
+  - "DAIUSDT"
+PLA:
+  - "PLAUSD"
+  - "PLAEUR"
+SHIB:
+  - "SHIBEUR"
+  - "SHIBUSD"
+ATOM:
+  - "ATOMGBP"
+  - "ATOMEUR"
+  - "ATOMUSD"
+  - "ATOMXBT"
+  - "ATOMETH"
+  - "ATOMAUD"
+EWT:
+  - "EWTUSD"
+  - "EWTXBT"
+  - "EWTGBP"
+  - "EWTEUR"
+BADGER:
+  - "BADGERUSD"
+  - "BADGEREUR"
+INJ:
+  - "INJEUR"
+  - "INJUSD"
+MV:
+  - "MVEUR"
+  - "MVUSD"
+TLM:
+  - "TLMEUR"
+  - "TLMUSD"
+AXS:
+  - "AXSUSD"
+  - "AXSEUR"
+RARI:
+  - "RARIEUR"
+  - "RARIXBT"
+  - "RARIUSD"
+  - "RARIGBP"
+MSOL:
+  - "MSOLUSD"
+  - "MSOLEUR"
+MASK:
+  - "MASKUSD"
+  - "MASKEUR"
+LPT:
+  - "LPTXBT"
+  - "LPTEUR"
+  - "LPTGBP"
+  - "LPTUSD"
+MKR:
+  - "MKRUSD"
+  - "MKRXBT"
+  - "MKRGBP"
+  - "MKREUR"
+ANKR:
+  - "ANKRXBT"
+  - "ANKRGBP"
+  - "ANKRUSD"
+  - "ANKREUR"
+ZGBP:
+  - "ZGBPZUSD"
+KEEP:
+  - "KEEPEUR"
+  - "KEEPXBT"
+  - "KEEPUSD"
+  - "KEEPETH"
+KILT:
+  - "KILTUSD"
+  - "KILTEUR"
+T:
+  - "TUSD"
+  - "TEUR"
+BAND:
+  - "BANDUSD"
+  - "BANDEUR"
+TOKE:
+  - "TOKEUSD"
+  - "TOKEEUR"
+DOT:
+  - "DOTETH"
+  - "DOTEUR"
+  - "DOTJPY"
+  - "DOTAUD"
+  - "DOTUSD"
+  - "DOTXBT"
+  - "DOTUSDT"
+  - "DOTGBP"
+CVX:
+  - "CVXUSD"
+  - "CVXEUR"
+BNC:
+  - "BNCUSD"
+  - "BNCEUR"
+CTSI:
+  - "CTSIEUR"
+  - "CTSIUSD"
+SC:
+  - "SCXBT"
+  - "SCETH"
+  - "SCUSD"
+  - "SCEUR"
+OXY:
+  - "OXYUSD"
+  - "OXYEUR"
+XREP:
+  - "XREPZEUR"
+  - "XREPXETH"
+  - "XREPXXBT"
+  - "XREPZUSD"
+XTZ:
+  - "XTZXBT"
+  - "XTZUSD"
+  - "XTZEUR"
+  - "XTZETH"
+  - "XTZAUD"
+  - "XTZGBP"
+BNT:
+  - "BNTEUR"
+  - "BNTGBP"
+  - "BNTUSD"
+  - "BNTXBT"
+MATIC:
+  - "MATICUSD"
+  - "MATICGBP"
+  - "MATICXBT"
+  - "MATICEUR"
+SUSHI:
+  - "SUSHIUSD"
+  - "SUSHIGBP"
+  - "SUSHIEUR"
+  - "SUSHIXBT"
+RBC:
+  - "RBCUSD"
+  - "RBCEUR"
+XXMR:
+  - "XXMRXXBT"
+  - "XXMRZEUR"
+  - "XXMRZUSD"
+IMX:
+  - "IMXUSD"
+  - "IMXEUR"
+APE:
+  - "APEUSD"
+  - "APEEUR"
+PAXG:
+  - "PAXGXBT"
+  - "PAXGETH"
+  - "PAXGUSD"
+  - "PAXGEUR"
+GNO:
+  - "GNOEUR"
+  - "GNOUSD"
+  - "GNOXBT"
+  - "GNOETH"
+DASH:
+  - "DASHEUR"
+  - "DASHXBT"
+  - "DASHUSD"
+RLC:
+  - "RLCUSD"
+  - "RLCEUR"
+UST:
+  - "USTUSDC"
+  - "USTUSDT"
+  - "USTEUR"
+  - "USTUSD"
+EOS:
+  - "EOSEUR"
+  - "EOSETH"
+  - "EOSUSD"
+  - "EOSXBT"
+  - "EOSUSDT"
+IDEX:
+  - "IDEXUSD"
+  - "IDEXEUR"
+EGLD:
+  - "EGLDEUR"
+  - "EGLDUSD"
+RNDR:
+  - "RNDRUSD"
+  - "RNDREUR"
+RUNE:
+  - "RUNEEUR"
+  - "RUNEUSD"
+UMA:
+  - "UMAEUR"
+  - "UMAUSD"
+YGG:
+  - "YGGUSD"
+  - "YGGEUR"
+ENJ:
+  - "ENJJPY"
+  - "ENJXBT"
+  - "ENJGBP"
+  - "ENJUSD"
+  - "ENJEUR"
+AUDIO:
+  - "AUDIOEUR"
+  - "AUDIOUSD"
+CFG:
+  - "CFGEUR"
+  - "CFGUSD"
+COMP:
+  - "COMPEUR"
+  - "COMPUSD"
+  - "COMPXBT"
+  - "COMPETH"
+SUPER:
+  - "SUPERUSD"
+  - "SUPEREUR"
+ATLAS:
+  - "ATLASEUR"
+  - "ATLASUSD"
+TEER:
+  - "TEERUSD"
+  - "TEEREUR"
+LINK:
+  - "LINKETH"
+  - "LINKUSD"
+  - "LINKAUD"
+  - "LINKEUR"
+  - "LINKXBT"
+  - "LINKJPY"
+  - "LINKGBP"
+  - "LINKUSDT"
+ALCX:
+  - "ALCXEUR"
+  - "ALCXUSD"
+XXRP:
+  - "XXRPZUSD"
+  - "XRPUSDT"
+  - "XRPGBP"
+  - "XXRPZCAD"
+  - "XXRPXXBT"
+  - "XXRPZJPY"
+  - "XXRPZEUR"
+  - "XRPETH"
+  - "XRPAUD"
+KINT:
+  - "KINTUSD"
+  - "KINTEUR"
+CVC:
+  - "CVCEUR"
+  - "CVCUSD"
+SCRT:
+  - "SCRTUSD"
+  - "SCRTEUR"
+CRV:
+  - "CRVETH"
+  - "CRVXBT"
+  - "CRVUSD"
+  - "CRVEUR"
+SGB:
+  - "SGBUSD"
+  - "SGBEUR"
+XXBT:
+  - "XBTUSDT"
+  - "XXBTZCAD"
+  - "XXBTZEUR"
+  - "XBTUSDC"
+  - "XBTDAI"
+  - "XXBTZGBP"
+  - "XBTAUD"
+  - "XXBTZUSD"
+  - "XBTCHF"
+  - "XXBTZJPY"
+FXS:
+  - "FXSEUR"
+  - "FXSUSD"
+TRIBE:
+  - "TRIBEEUR"
+  - "TRIBEUSD"
+JASMY:
+  - "JASMYUSD"
+  - "JASMYEUR"
+KAR:
+  - "KARUSD"
+  - "KAREUR"
+REQ:
+  - "REQEUR"
+  - "REQUSD"
+NEAR:
+  - "NEAREUR"
+  - "NEARUSD"
+TVK:
+  - "TVKUSD"
+  - "TVKEUR"
+MANA:
+  - "MANAEUR"
+  - "MANAETH"
+  - "MANAXBT"
+  - "MANAUSD"
+MIR:
+  - "MIREUR"
+  - "MIRUSD"
+WAVES:
+  - "WAVESUSD"
+  - "WAVESEUR"
+  - "WAVESETH"
+  - "WAVESXBT"
+LSK:
+  - "LSKETH"
+  - "LSKEUR"
+  - "LSKXBT"
+  - "LSKUSD"
+XXLM:
+  - "XXLMXXBT"
+  - "XXLMZGBP"
+  - "XXLMZUSD"
+  - "XXLMZAUD"
+  - "XXLMZEUR"
+QNT:
+  - "QNTUSD"
+  - "QNTEUR"
+ENS:
+  - "ENSUSD"
+  - "ENSEUR"
+LUNA2:
+  - "LUNA2USD"
+  - "LUNA2EUR"
+LCX:
+  - "LCXUSD"
+  - "LCXEUR"
+XLTC:
+  - "LTCAUD"
+  - "XLTCZUSD"
+  - "XLTCZEUR"
+  - "LTCGBP"
+  - "LTCETH"
+  - "LTCUSDT"
+  - "XLTCXXBT"
+  - "XLTCZJPY"
+COTI:
+  - "COTIUSD"
+  - "COTIEUR"
+FTM:
+  - "FTMUSD"
+  - "FTMEUR"
+XMLN:
+  - "XMLNZEUR"
+  - "XMLNXXBT"
+  - "XMLNZUSD"
+  - "XMLNXETH"
+WBTC:
+  - "WBTCXBT"
+  - "WBTCUSD"
+  - "WBTCEUR"

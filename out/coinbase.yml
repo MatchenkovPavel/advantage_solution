@@ -1,0 +1,697 @@
+ETC:
+  - "ETCEUR"
+  - "ETCBTC"
+  - "ETCGBP"
+  - "ETCUSD"
+API3:
+  - "API3USD"
+  - "API3USDT"
+OP:
+  - "OPUSD"
+DOGE:
+  - "DOGEUSD"
+  - "DOGEEUR"
+  - "DOGEBTC"
+  - "DOGEGBP"
+  - "DOGEUSDT"
+GYEN:
+  - "GYENUSD"
+NMR:
+  - "NMREUR"
+  - "NMRBTC"
+  - "NMRUSD"
+  - "NMRGBP"
+JUP:
+  - "JUPUSD"
+HIGH:
+  - "HIGHUSD"
+TRB:
+  - "TRBUSD"
+  - "TRBBTC"
+GMT:
+  - "GMTUSDT"
+  - "GMTUSD"
+ACH:
+  - "ACHUSD"
+BAL:
+  - "BALUSD"
+  - "BALBTC"
+BOND:
+  - "BONDUSD"
+LQTY:
+  - "LQTYUSDT"
+  - "LQTYEUR"
+  - "LQTYUSD"
+AVT:
+  - "AVTUSD"
+OXT:
+  - "OXTUSD"
+ICP:
+  - "ICPUSDT"
+  - "ICPUSD"
+  - "ICPGBP"
+  - "ICPEUR"
+  - "ICPBTC"
+SNT:
+  - "SNTUSD"
+DDX:
+  - "DDXEUR"
+  - "DDXUSD"
+  - "DDXUSDT"
+GST:
+  - "GSTUSD"
+BCH:
+  - "BCHUSD"
+  - "BCHGBP"
+  - "BCHBTC"
+  - "BCHEUR"
+GRT:
+  - "GRTGBP"
+  - "GRTBTC"
+  - "GRTUSD"
+  - "GRTEUR"
+SUKU:
+  - "SUKUUSDT"
+  - "SUKUEUR"
+  - "SUKUUSD"
+FOX:
+  - "FOXUSD"
+  - "FOXUSDT"
+ALICE:
+  - "ALICEUSD"
+TRU:
+  - "TRUUSDT"
+  - "TRUBTC"
+  - "TRUEUR"
+  - "TRUUSD"
+ETH:
+  - "ETHDAI"
+  - "ETHGBP"
+  - "ETHUSD"
+  - "ETHEUR"
+  - "ETHUSDC"
+  - "ETHBTC"
+  - "ETHUSDT"
+GLM:
+  - "GLMUSD"
+AVAX:
+  - "AVAXBTC"
+  - "AVAXEUR"
+  - "AVAXUSDT"
+  - "AVAXUSD"
+PERP:
+  - "PERPEUR"
+  - "PERPUSD"
+  - "PERPUSDT"
+INDEX:
+  - "INDEXUSD"
+  - "INDEXUSDT"
+MLN:
+  - "MLNUSD"
+POLS:
+  - "POLSUSDT"
+  - "POLSUSD"
+VGX:
+  - "VGXUSDT"
+  - "VGXEUR"
+  - "VGXUSD"
+FET:
+  - "FETUSDT"
+  - "FETUSD"
+PAX:
+  - "PAXUSD"
+  - "PAXUSDT"
+GODS:
+  - "GODSUSD"
+ORCA:
+  - "ORCAUSD"
+HOPR:
+  - "HOPRUSD"
+  - "HOPRUSDT"
+KSM:
+  - "KSMUSD"
+  - "KSMUSDT"
+LRC:
+  - "LRCUSDT"
+  - "LRCUSD"
+  - "LRCBTC"
+ADA:
+  - "ADAUSD"
+  - "ADABTC"
+  - "ADAGBP"
+  - "ADAUSDC"
+  - "ADAUSDT"
+  - "ADAETH"
+  - "ADAEUR"
+USDC:
+  - "USDCGBP"
+  - "USDCEUR"
+CLV:
+  - "CLVEUR"
+  - "CLVUSDT"
+  - "CLVGBP"
+  - "CLVUSD"
+AIOZ:
+  - "AIOZUSD"
+  - "AIOZUSDT"
+OMG:
+  - "OMGGBP"
+  - "OMGBTC"
+  - "OMGEUR"
+  - "OMGUSD"
+SAND:
+  - "SANDUSD"
+  - "SANDUSDT"
+ZRX:
+  - "ZRXBTC"
+  - "ZRXUSD"
+  - "ZRXEUR"
+FORTH:
+  - "FORTHGBP"
+  - "FORTHBTC"
+  - "FORTHUSD"
+  - "FORTHEUR"
+DNT:
+  - "DNTUSD"
+  - "DNTUSDC"
+QUICK:
+  - "QUICKUSD"
+POWR:
+  - "POWRUSD"
+  - "POWRUSDT"
+  - "POWREUR"
+UNI:
+  - "UNIUSD"
+  - "UNIGBP"
+  - "UNIBTC"
+  - "UNIEUR"
+FIDA:
+  - "FIDAEUR"
+  - "FIDAUSDT"
+  - "FIDAUSD"
+FLOW:
+  - "FLOWUSDT"
+  - "FLOWUSD"
+STORJ:
+  - "STORJBTC"
+  - "STORJUSD"
+SNX:
+  - "SNXGBP"
+  - "SNXUSD"
+  - "SNXEUR"
+  - "SNXBTC"
+FIS:
+  - "FISUSD"
+  - "FISUSDT"
+AGLD:
+  - "AGLDUSDT"
+  - "AGLDUSD"
+REN:
+  - "RENBTC"
+  - "RENUSD"
+BIT:
+  - "BITUSD"
+  - "BITUSDT"
+COVAL:
+  - "COVALUSD"
+  - "COVALUSDT"
+SYN:
+  - "SYNUSD"
+FARM:
+  - "FARMUSD"
+  - "FARMUSDT"
+BTRST:
+  - "BTRSTEUR"
+  - "BTRSTGBP"
+  - "BTRSTBTC"
+  - "BTRSTUSDT"
+  - "BTRSTUSD"
+SOL:
+  - "SOLETH"
+  - "SOLGBP"
+  - "SOLEUR"
+  - "SOLUSDT"
+  - "SOLUSD"
+  - "SOLBTC"
+RBN:
+  - "RBNUSD"
+GTC:
+  - "GTCUSD"
+ERN:
+  - "ERNEUR"
+  - "ERNUSD"
+  - "ERNUSDT"
+POLY:
+  - "POLYUSD"
+  - "POLYUSDT"
+1INCH:
+  - "1INCHGBP"
+  - "1INCHEUR"
+  - "1INCHBTC"
+  - "1INCHUSD"
+CHZ:
+  - "CHZUSDT"
+  - "CHZGBP"
+  - "CHZUSD"
+  - "CHZEUR"
+OGN:
+  - "OGNBTC"
+  - "OGNUSD"
+MUSD:
+  - "MUSDUSD"
+FORT:
+  - "FORTUSDT"
+  - "FORTUSD"
+AMP:
+  - "AMPUSD"
+GALA:
+  - "GALAUSD"
+  - "GALAEUR"
+  - "GALAUSDT"
+SPELL:
+  - "SPELLUSDT"
+  - "SPELLUSD"
+MINA:
+  - "MINAUSD"
+  - "MINAEUR"
+  - "MINAUSDT"
+CTX:
+  - "CTXUSD"
+  - "CTXUSDT"
+  - "CTXEUR"
+PRO:
+  - "PROUSD"
+AAVE:
+  - "AAVEBTC"
+  - "AAVEGBP"
+  - "AAVEUSD"
+  - "AAVEEUR"
+FIL:
+  - "FILBTC"
+  - "FILUSD"
+  - "FILGBP"
+  - "FILEUR"
+BICO:
+  - "BICOUSD"
+  - "BICOEUR"
+  - "BICOUSDT"
+SKL:
+  - "SKLEUR"
+  - "SKLGBP"
+  - "SKLUSD"
+  - "SKLBTC"
+ROSE:
+  - "ROSEUSDT"
+  - "ROSEUSD"
+ATA:
+  - "ATAUSD"
+  - "ATAUSDT"
+BAT:
+  - "BATUSD"
+  - "BATETH"
+  - "BATEUR"
+  - "BATBTC"
+  - "BATUSDC"
+RAD:
+  - "RADEUR"
+  - "RADUSDT"
+  - "RADUSD"
+  - "RADBTC"
+  - "RADGBP"
+ARPA:
+  - "ARPAUSDT"
+  - "ARPAUSD"
+  - "ARPAEUR"
+USDT:
+  - "USDTEUR"
+  - "USDTUSD"
+  - "USDTGBP"
+  - "USDTUSDC"
+QSP:
+  - "QSPUSD"
+  - "QSPUSDT"
+ALGO:
+  - "ALGOGBP"
+  - "ALGOBTC"
+  - "ALGOEUR"
+  - "ALGOUSD"
+UNFI:
+  - "UNFIUSD"
+YFI:
+  - "YFIUSD"
+  - "YFIBTC"
+KNC:
+  - "KNCBTC"
+  - "KNCUSD"
+WCFG:
+  - "WCFGUSDT"
+  - "WCFGGBP"
+  - "WCFGEUR"
+  - "WCFGUSD"
+  - "WCFGBTC"
+DAI:
+  - "DAIUSDC"
+  - "DAIUSD"
+PLA:
+  - "PLAUSD"
+SHIB:
+  - "SHIBUSD"
+  - "SHIBEUR"
+  - "SHIBGBP"
+  - "SHIBUSDT"
+ATOM:
+  - "ATOMGBP"
+  - "ATOMUSDT"
+  - "ATOMEUR"
+  - "ATOMBTC"
+  - "ATOMUSD"
+BADGER:
+  - "BADGERUSD"
+  - "BADGEREUR"
+  - "BADGERUSDT"
+AXS:
+  - "AXSUSD"
+  - "AXSUSDT"
+  - "AXSBTC"
+  - "AXSEUR"
+RARI:
+  - "RARIUSD"
+MASK:
+  - "MASKGBP"
+  - "MASKUSD"
+  - "MASKUSDT"
+  - "MASKEUR"
+LPT:
+  - "LPTUSD"
+WAMPL:
+  - "WAMPLUSD"
+  - "WAMPLUSDT"
+ANKR:
+  - "ANKREUR"
+  - "ANKRGBP"
+  - "ANKRBTC"
+  - "ANKRUSD"
+MKR:
+  - "MKRBTC"
+  - "MKRUSD"
+MUSE:
+  - "MUSEUSD"
+ELA:
+  - "ELAUSD"
+  - "ELAUSDT"
+CRPT:
+  - "CRPTUSD"
+KEEP:
+  - "KEEPUSD"
+ORN:
+  - "ORNBTC"
+  - "ORNUSDT"
+  - "ORNUSD"
+BAND:
+  - "BANDBTC"
+  - "BANDEUR"
+  - "BANDGBP"
+  - "BANDUSD"
+MDT:
+  - "MDTUSDT"
+  - "MDTUSD"
+DOT:
+  - "DOTGBP"
+  - "DOTBTC"
+  - "DOTEUR"
+  - "DOTUSD"
+  - "DOTUSDT"
+DREP:
+  - "DREPUSD"
+  - "DREPUSDT"
+RLY:
+  - "RLYUSD"
+  - "RLYGBP"
+  - "RLYUSDT"
+  - "RLYEUR"
+INV:
+  - "INVUSD"
+CTSI:
+  - "CTSIBTC"
+  - "CTSIUSD"
+POND:
+  - "PONDUSD"
+  - "PONDUSDT"
+C98:
+  - "C98USD"
+  - "C98USDT"
+XTZ:
+  - "XTZEUR"
+  - "XTZBTC"
+  - "XTZUSD"
+  - "XTZGBP"
+BNT:
+  - "BNTEUR"
+  - "BNTBTC"
+  - "BNTGBP"
+  - "BNTUSD"
+MATIC:
+  - "MATICBTC"
+  - "MATICGBP"
+  - "MATICUSD"
+  - "MATICEUR"
+  - "MATICUSDT"
+SUSHI:
+  - "SUSHIBTC"
+  - "SUSHIGBP"
+  - "SUSHIEUR"
+  - "SUSHIETH"
+  - "SUSHIUSD"
+IMX:
+  - "IMXUSDT"
+  - "IMXUSD"
+APE:
+  - "APEUSD"
+  - "APEUSDT"
+  - "APEEUR"
+PRQ:
+  - "PRQUSD"
+  - "PRQUSDT"
+YFII:
+  - "YFIIUSD"
+BLZ:
+  - "BLZUSD"
+DASH:
+  - "DASHUSD"
+  - "DASHBTC"
+RLC:
+  - "RLCUSD"
+  - "RLCBTC"
+UPI:
+  - "UPIUSDT"
+  - "UPIUSD"
+EOS:
+  - "EOSBTC"
+  - "EOSUSD"
+  - "EOSEUR"
+AERGO:
+  - "AERGOUSD"
+IDEX:
+  - "IDEXUSDT"
+  - "IDEXUSD"
+RNDR:
+  - "RNDRUSD"
+  - "RNDRUSDT"
+  - "RNDREUR"
+ALEPH:
+  - "ALEPHUSD"
+DEXT:
+  - "DEXTUSD"
+ZEC:
+  - "ZECBTC"
+  - "ZECUSD"
+  - "ZECUSDC"
+DYP:
+  - "DYPUSDT"
+  - "DYPUSD"
+UMA:
+  - "UMAEUR"
+  - "UMAUSD"
+  - "UMABTC"
+  - "UMAGBP"
+ENJ:
+  - "ENJBTC"
+  - "ENJUSDT"
+  - "ENJUSD"
+LOOM:
+  - "LOOMUSDC"
+  - "LOOMUSD"
+XLM:
+  - "XLMEUR"
+  - "XLMBTC"
+  - "XLMUSD"
+  - "XLMUSDT"
+COMP:
+  - "COMPUSD"
+  - "COMPBTC"
+TRAC:
+  - "TRACUSDT"
+  - "TRACEUR"
+  - "TRACUSD"
+RAI:
+  - "RAIUSD"
+XYO:
+  - "XYOBTC"
+  - "XYOUSDT"
+  - "XYOUSD"
+  - "XYOEUR"
+TIME:
+  - "TIMEUSDT"
+  - "TIMEUSD"
+SUPER:
+  - "SUPERUSDT"
+  - "SUPERUSD"
+LTC:
+  - "LTCUSD"
+  - "LTCGBP"
+  - "LTCEUR"
+  - "LTCBTC"
+BUSD:
+  - "BUSDUSD"
+CGLD:
+  - "CGLDEUR"
+  - "CGLDGBP"
+  - "CGLDBTC"
+  - "CGLDUSD"
+GFI:
+  - "GFIUSD"
+LINK:
+  - "LINKETH"
+  - "LINKGBP"
+  - "LINKUSDT"
+  - "LINKBTC"
+  - "LINKEUR"
+  - "LINKUSD"
+AUCTION:
+  - "AUCTIONEUR"
+  - "AUCTIONUSD"
+  - "AUCTIONUSDT"
+ALCX:
+  - "ALCXUSDT"
+  - "ALCXEUR"
+  - "ALCXUSD"
+ASM:
+  - "ASMUSDT"
+  - "ASMUSD"
+NCT:
+  - "NCTUSD"
+  - "NCTUSDT"
+  - "NCTEUR"
+SHPING:
+  - "SHPINGEUR"
+  - "SHPINGUSD"
+  - "SHPINGUSDT"
+NU:
+  - "NUGBP"
+  - "NUEUR"
+  - "NUBTC"
+  - "NUUSD"
+IOTX:
+  - "IOTXUSD"
+  - "IOTXEUR"
+DIA:
+  - "DIAUSDT"
+  - "DIAEUR"
+  - "DIAUSD"
+CVC:
+  - "CVCUSDC"
+  - "CVCUSD"
+STX:
+  - "STXUSD"
+  - "STXUSDT"
+ZEN:
+  - "ZENBTC"
+  - "ZENUSDT"
+  - "ZENUSD"
+CRO:
+  - "CROUSDT"
+  - "CROUSD"
+  - "CROEUR"
+MCO2:
+  - "MCO2USDT"
+  - "MCO2USD"
+CRV:
+  - "CRVUSD"
+  - "CRVEUR"
+  - "CRVBTC"
+  - "CRVGBP"
+PLU:
+  - "PLUUSD"
+DESO:
+  - "DESOEUR"
+  - "DESOUSDT"
+  - "DESOUSD"
+BTC:
+  - "BTCEUR"
+  - "BTCGBP"
+  - "BTCUSDC"
+  - "BTCUSD"
+  - "BTCUSDT"
+MATH:
+  - "MATHUSD"
+  - "MATHUSDT"
+GAL:
+  - "GALUSD"
+  - "GALUSDT"
+TRIBE:
+  - "TRIBEUSD"
+JASMY:
+  - "JASMYUSD"
+FX:
+  - "FXUSD"
+REQ:
+  - "REQEUR"
+  - "REQUSD"
+  - "REQUSDT"
+  - "REQGBP"
+  - "REQBTC"
+MPL:
+  - "MPLUSD"
+RGT:
+  - "RGTUSD"
+KRL:
+  - "KRLUSD"
+  - "KRLUSDT"
+  - "KRLEUR"
+NKN:
+  - "NKNGBP"
+  - "NKNEUR"
+  - "NKNUSD"
+  - "NKNBTC"
+MANA:
+  - "MANABTC"
+  - "MANAETH"
+  - "MANAEUR"
+  - "MANAUSDC"
+  - "MANAUSD"
+MIR:
+  - "MIRGBP"
+  - "MIREUR"
+  - "MIRBTC"
+  - "MIRUSD"
+DAR:
+  - "DARUSD"
+QNT:
+  - "QNTUSD"
+  - "QNTUSDT"
+ENS:
+  - "ENSEUR"
+  - "ENSUSDT"
+  - "ENSUSD"
+REP:
+  - "REPBTC"
+  - "REPUSD"
+LCX:
+  - "LCXUSDT"
+  - "LCXUSD"
+  - "LCXEUR"
+COTI:
+  - "COTIUSD"
+WBTC:
+  - "WBTCUSD"
+  - "WBTCBTC"

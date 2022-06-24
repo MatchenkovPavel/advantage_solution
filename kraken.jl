@@ -38,4 +38,4 @@ end"""
 #instruments["futures"] = futures_tickers
 #instruments["spot"] = spot_tickers
 
-YAML.write_file("kraken.yml", spot_tickers)
+YAML.write_file("out/kraken.yml", spot_tickers)

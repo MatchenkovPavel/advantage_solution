@@ -8,6 +8,7 @@ function get_data(url)
     data = JSON.parse(String(response.body))
 end
 
+binance = YAML.load_file("binance.yml")
 
 function parse_json(data)
     tickers =Dict()
@@ -31,4 +32,4 @@ instruments = Dict()
 #instruments["futures"] = futures
 #instruments["spot"] = spot
 
-YAML.write_file("okex.yml", spot)
+YAML.write_file("out/okex.yml", spot)

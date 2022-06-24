@@ -24,6 +24,6 @@ end
 
 #instruments = Dict()
 #instruments["spot"] = tickers
-YAML.write_file("coinbase.yml", tickers)
+YAML.write_file("out/coinbase.yml", tickers)
 
 
